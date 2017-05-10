@@ -1,2 +1,4 @@
 # klauk
-Javascript clock with a Kauai theme
+Javascript clock, based on http://codepen.io/mohebifar/
+
+it has some Childish Gambino's kauai theme.
